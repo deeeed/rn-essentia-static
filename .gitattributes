@@ -1,2 +1,0 @@
-# Explicitly disable Git LFS for all binary files
-*.a -filter -diff -merge text
