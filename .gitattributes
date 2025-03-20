@@ -1,2 +1,2 @@
-# Handle large binary files with Git LFS
-*.a filter=lfs diff=lfs merge=lfs -text
+# Explicitly disable Git LFS for all binary files
+*.a -filter -diff -merge text
