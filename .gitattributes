@@ -1,0 +1,2 @@
+# Handle large binary files with Git LFS
+*.a filter=lfs diff=lfs merge=lfs -text
