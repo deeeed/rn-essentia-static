@@ -15,7 +15,7 @@ These binary files are meant to be used with [@siteed/react-native-essentia](htt
 ## Version
 
 These libraries are built from Essentia version 2.1_beta5.
-Last built: 2025-03-21 16:02:18
+Last built: 2025-03-22 08:45:25
 Package version: 0.3.0-beta.2
 
 ## Building
